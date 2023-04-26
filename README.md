@@ -7,4 +7,4 @@ Experimental tool: Pycharm
 
 Programming language: Python
 
-The four datasets used by the CDBRWR algorithm mainly include SARS network, Mouse network, Yeast network and Human network. Each network contains two files, one file is used to describe the topology of the network, and the other file records the relatively important nodes of the network.
+The four datasets used by the NEGM algorithm mainly include SARS network, Mouse network, Yeast network and Human network. Each network contains two files, one file is used to describe the topology of the network, and the other file records the relatively important nodes of the network.
